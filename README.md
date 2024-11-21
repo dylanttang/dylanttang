@@ -2,7 +2,7 @@
 + currently studying cs & linguistics @ ucla 📘
 + prev sde intern @ amazon 💫🚀
 + former steel city codes regional director & samsung solve for tomorrow national finalist
-+ on campus: backend developer @ devx 💻
++ on campus: software developer @ nova & backend developer @ devx 💻
 + amazon future engineer recipient ✨
 ```
 
